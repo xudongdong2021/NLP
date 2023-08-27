@@ -1,0 +1,14 @@
+# BIO模式
+BRA：branch，品牌名，如：华为(B-BRA,I-BRA)
+PRO：product，产品名，如：洗衣机(B-PRO,I-PRO,I-PRO)
+O: other，其他
+
+B-BRA,I-BRA,
+I-BRA,
+B-BRA,I-BRA,I-BRA,
+
+B-PRO,I-PRO,
+I-PRO,
+B-PRO,I-PRO,I-PRO,
+
+O,
